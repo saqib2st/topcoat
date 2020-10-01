@@ -25,7 +25,7 @@ inclined._
 
 ---
 
-## Contributing
+## Contributing(welcome contributer's 😍)
 
 Start by checking out our [Backlog](http://huboard.com/topcoat/topcoat/backlog). (Pls file issues against this repo.)
 
